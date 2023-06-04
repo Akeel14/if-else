@@ -12,7 +12,7 @@
 //   console.log("You got an F. You failed.");
 // }
 
-// Adding a new feature
+// Adding a new fesdatur
 
 // // CHALLENGE 1
 // // Check if the person is old enough to enter the nightclub (21)
@@ -308,7 +308,6 @@ function objects() {
 
 // STEP 3:
 // Write a function to console log Button Clicked when the function is called
-
 
 // PUSH TO GITHUB EVERYTIME YOU ADD A NEW FEATURE, ROLLBACK IF FEATURE IS NOT WORKING AS EXPECTED
 function EventListener() {
