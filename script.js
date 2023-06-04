@@ -12,6 +12,8 @@
 //   console.log("You got an F. You failed.");
 // }
 
+// Adding a new feature
+
 // // CHALLENGE 1
 // // Check if the person is old enough to enter the nightclub (21)
 // // Log a suitable message to the console in both cases
